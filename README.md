@@ -1,1 +1,1 @@
-# apache-storm-statefulbolt-test
+# Empty README
